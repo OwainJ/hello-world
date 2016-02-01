@@ -1,2 +1,2 @@
 # hello-world
-Test repository for storing ideas.
+A test repository for testing and storing ideas.
