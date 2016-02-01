@@ -1,2 +1,2 @@
 # hello-world
-A test repository for testing and storing ideas.
+This is my personal testing repository for storing and testing ideas.
